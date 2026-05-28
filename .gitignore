@@ -1,0 +1,31 @@
+# Sensitive environment files
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Private datasets
+data/private/
+
+# Power BI autosave files
+*.pbix.autosave
