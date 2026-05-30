@@ -1,97 +1,83 @@
 **Sales Performance and Profitability Insights**
 
 
+**Project Description**
+
+This project analyzes sales performance and profitability across product categories, regions, and customer segments. It focuses on understanding the impact of discounts, identifying regional dependencies, and evaluating revenue concentration to improve overall profitability.
 
 
+**Objectives**
 
-**Project Description:**
+Analyze sales and profit across product categories, regions, and customer segments
 
-This Project analyses the Sales, Profit, Discount, Regional Dependency on Product Category, and Concentration to improve the Revenue Quality.
+Evaluate the impact of discounts on sales volume, sales value, and profit
 
+Identify regional dependency on product categories
 
-
-**Objectives:**
-
-Analyze the Sales and Profit across Product Category, Region and Customer segment.
-
-Analyze the Discount Impact on Sales volume, Sales and Profit.
-
-Analyze the Regional Dependency on Product category
-
-Analyze the Revenue concentration
+Assess revenue concentration across key segments
 
 
+**Dataset Information**
 
-**Dataset Information:**
-
-**Source:** Kaggle
-
-**Size:** 9995 rows and 13 columns
-
-**Key features:** Ship Mode, Segment, Country, City, State, Postal Code, Region, Category,
-Sub-Category, Sales, Quantity, Discount, Profit.
+Source: Kaggle Sample Superstore Dataset
+Size: 9,000+ rows and 13 columns
+Key features: Ship Mode, Segment, Country, City, State, Postal Code, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit
 
 
+**Tools Used**
 
-**Tools:**
-
-•	SQL
-
-•	Excel
-
-•	Power BI
+SQL | Excel | Power BI
 
 
+**Data Cleaning Process**
 
-**Data Cleaning Process:**
+Removed duplicate records
 
-•	Remove duplicates
+Standardized data formats
 
-•	Standardized Data Formats
-
-•	Check for Blank cells
-
+Handled missing/blank values
 
 
-**Data Transformation:**
+**Data Transformation**
 
-Created the columns Cost and List Price
-
-
-
-**Analysis:**
-
-•	Exploratory Data Analysis (EDA)
-
-•	Grouping data by region and Product Category
+Created derived columns: Cost and List Price
 
 
+**Analysis Performed**
 
-**Key Insights:**
+Exploratory Data Analysis (EDA)
 
-•	Furniture category has low Profit Margin 2%
+Grouping and aggregation by region and product category
 
-•	Central Region has low Profit Margin 8%
-
-•	Profit declines beyond the discount band 20%
-
+Profitability and discount impact analysis
 
 
-**Recommendations:**
+**Key Insights**
 
-* Strengthen discount governance, particularly in Furniture and Central region
-* Investigate cost-to-sales efficiency in low Sales-Profit gap segments to identify operational improvement opportunities
-* Cap discount levels at \~20% and monitor margin impact before applying higher promotions
+Technology category generates the highest profit margin (~17%)
 
+Furniture category has the lowest profit margin (~2%)
 
+Central region shows weak profitability (~8% margin)
 
-**Dashboard Access:**
-
-The Power BI report file (.pbix) is available upon request. However, dashboard screenshots have been included in the repository for quick preview.
+Discounts above 20% negatively impact profitability
 
 
+**Recommendations**
 
-**Conclusion:**
+Strengthen discount control in Furniture category and Central region
 
-This analysis helps to understand the Sales and Profit across Product category, Region, Customer segment to take the decision in order to improve the revenue quality.
+Investigate cost structure in low-margin segments
+
+Cap discounts at ~20% and monitor profitability impact
+
+
+**Dashboard Access**
+
+The Power BI dashboard file (.pbix) is available upon request. Preview screenshots are included in this repository.
+
+
+**Conclusion**
+
+This analysis provides insights into sales, profitability, and discount behavior across different segments. It supports data-driven decision-making to improve overall profitability and revenue efficiency.
 
