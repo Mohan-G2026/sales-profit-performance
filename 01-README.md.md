@@ -29,7 +29,7 @@ Source: Kaggle Sample Superstore Dataset
 
 Size: 9,000+ rows and 13 columns
 
-Key features: Ship Mode, Segment, Country, City, State, Postal Code, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit.
+Columns: Ship Mode, Segment, Country, City, State, Postal Code, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit.
 
 
 
