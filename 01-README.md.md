@@ -33,6 +33,18 @@ Key features: Ship Mode, Segment, Country, City, State, Postal Code, Region, Cat
 
 
 
+**Data Source:**
+
+Data Source: Sample Superstore Dataset — Kaggle
+
+Publisher: Aman Sharma
+
+License: CC0: Public Domain
+
+Note: Attribution not required under the license; credit provided as a professional courtesy.
+
+
+
 **Tools Used:**
 
 SQL | Excel | Power BI
