@@ -3,13 +3,13 @@
 
 
 
-**Project Description**
+**Project Description:**
 
 This project analyzes sales performance and profitability across product categories, regions, and customer segments. It focuses on understanding the impact of discounts, identifying regional dependencies, and evaluating revenue concentration to improve overall profitability.
 
 
 
-**Objectives**
+**Objectives:**
 
 
 Analyze sales and profit across product categories, regions, and customer segments
@@ -22,7 +22,7 @@ Assess revenue concentration across key segments
 
 
 
-**Dataset Information**
+**Dataset Information:**
 
 
 Source: Kaggle Sample Superstore Dataset
@@ -33,13 +33,13 @@ Key features: Ship Mode, Segment, Country, City, State, Postal Code, Region, Cat
 
 
 
-**Tools Used**
+**Tools Used:**
 
 SQL | Excel | Power BI
 
 
 
-**Data Cleaning Process**
+**Data Cleaning Process:**
 
 
 Removed duplicate records
@@ -50,13 +50,13 @@ Handled missing/blank values
 
 
 
-**Data Transformation**
+**Data Transformation:**
 
 Created derived columns: Cost and List Price
 
 
 
-**Analysis Performed**
+**Analysis Performed:**
 
 
 Exploratory Data Analysis (EDA)
@@ -67,7 +67,7 @@ Profitability and discount impact analysis
 
 
 
-**Key Insights**
+**Key Insights:**
 
 
 Technology category generates the highest profit margin (~17%)
@@ -80,7 +80,7 @@ Discounts above 20% negatively impact profitability
 
 
 
-**Recommendations**
+**Recommendations:**
 
 
 Strengthen discount control in Furniture category and Central region
@@ -91,12 +91,12 @@ Cap discounts at ~20% and monitor profitability impact
 
 
 
-**Dashboard Access**
+**Dashboard Access:**
 
 The Power BI dashboard file (.pbix) is available upon request. Preview screenshots are included in this repository.
 
 
 
-**Conclusion**
+**Conclusion:**
 
 This analysis provides insights into sales, profitability, and discount behavior across different segments. It supports data-driven decision-making to improve overall profitability and revenue efficiency.
