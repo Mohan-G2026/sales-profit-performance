@@ -4,8 +4,7 @@
 
 
 
-* Profitability is uneven: Furniture drives high sales (\~32%) but delivers very low margins (\~2%), driven by higher discounting and a narrow Sales–Profit gap,  
-suggesting elevated effective cost pressure.
+* Profitability is uneven: Furniture drives high sales (\~32%) but delivers very low margins (\~2%), driven by higher discounting and a narrow Sales–Profit gap, suggesting    elevated effective cost pressure.
 
 
 
