@@ -64,7 +64,7 @@ higher margins (\~17%).
 
 
 
-* Revenue is moderately concentrated, with the top 5 of 17 subcategories contributing \~55% of sales and the top 10 contributing \~85%\*\*, indicating reliance on a limited set of subcategories, while the remaining subcategories collectively contribute \~15%.
+* Revenue is moderately concentrated, with the top 5 of 17 subcategories contributing \~55% of sales and the top 10 contributing \~85%, indicating reliance on a limited set of subcategories, while the remaining subcategories collectively contribute \~15%.
 
 
 

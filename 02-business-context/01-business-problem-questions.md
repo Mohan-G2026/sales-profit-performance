@@ -13,10 +13,13 @@ Retail
 A retail company is experiencing uneven sales performance across regions and product categories, along with declining profitability in certain high-selling products due to discounting and cost pressures.
 
 
+
 Despite increasing revenue in some segments, overall profit margins are not improving proportionally. The company also lacks visibility into which products and regions are truly driving sustainable growth versus those relying heavily on discounts or low-margin sales.
 
 
+
 The management wants to use data analytics to:
+
 
 
 •	Identify key drivers of sales and profitability
@@ -26,6 +29,7 @@ The management wants to use data analytics to:
 •	Optimize pricing and discount strategies
 
 •	Improve inventory allocation and reduce inefficiencies
+
 
 
 The goal is to increase revenue quality (not just volume) and improve overall profitability.

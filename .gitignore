@@ -9,10 +9,12 @@ Thumbs.db
 # Logs
 *.log
 
-# Temporary files
+# Temporary and backup files
 *.tmp
 *.temp
 *.bak
+~$*.xlsx
+*.autosave
 
 # VS Code settings
 .vscode/
@@ -29,3 +31,4 @@ data/private/
 
 # Power BI autosave files
 *.pbix.autosave
+*.pbix.lock
